@@ -29,6 +29,7 @@ This exercise demonstrates:
 - intro.php
 - variables.php
 - scope.php
+- casting.php (Stretch goal file)
 
 ## Author
 
